@@ -1,5 +1,5 @@
 # Overview of Project
-Analyze Steve's stock data automaticalyy using VBA to analyze the returns for a given year based on user input.This analysis avoids manual work and calculation which saves time and avoids mistakes.
+Analyze Steve's stock data automaticaly using VBA to analyze the returns for a given year based on user input.This analysis avoids manual work and calculation which saves time and avoids mistakes.
 
 [Excel Workbook](VBA_Challenge.xlsm)
 
