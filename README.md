@@ -1,7 +1,7 @@
 # Overview of Project
 Analyze Steve's stock data automaticalyy using VBA to analyze the returns for a given year based on user input.This analysis avoids manual work and calculation which saves time and avoids mistakes.
 
-[Excel Workbook](VBA_Challenge.xlsm.zip)
+[Excel Workbook](VBA_Challenge.xlsm)
 
 ## Results
 We initially created a macro called AllStocksAnalysis():
